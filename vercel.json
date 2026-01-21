@@ -1,7 +1,3 @@
 {
-  "buildCommand": "cd packages/nextjs && corepack enable && yarn build",
-  "outputDirectory": "packages/nextjs/.next",
-  "installCommand": "corepack enable && yarn install",
-  "framework": "nextjs",
-  "devCommand": "cd packages/nextjs && yarn dev"
+ "framework": "nextjs"
 }
